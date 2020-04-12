@@ -25,7 +25,7 @@
     "env": {
       "NODE_ENV": "development",
       "PORT": 4000,
-      "SECRET": "your-hassed-secret"
+      "SECRET": "your-hashed-secret"
     }
   }
 }
